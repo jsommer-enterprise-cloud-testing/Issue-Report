@@ -1,0 +1,24 @@
+{
+  "name": "issue-report",
+  "version": "1.0.0",
+  "description": "Action to create a report on Issues is specified repositories which match specific criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsommer-enterprise-cloud-testing/Issue-Report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsommer-enterprise-cloud-testing/Issue-Report/issues"
+  },
+  "homepage": "https://github.com/jsommer-enterprise-cloud-testing/Issue-Report#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}

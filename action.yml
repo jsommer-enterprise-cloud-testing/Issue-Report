@@ -1,0 +1,13 @@
+name: 'Issue Report'
+description: 'Create a report based on the issues in a list of repositories'
+inputs:
+  project:  # id of input
+    description: 'Project Name to create report for'
+    required: true
+    default: 'NA'
+outputs:
+  outputFileName: # filename of output
+    description: 'The name of the file created'
+runs:
+  using: 'node16'
+  main: 'index.js'
