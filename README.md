@@ -17,7 +17,7 @@ The name of the file created.
 ## Example usage
 
 ```yaml
-uses: jsommer-enterprise-cloud-testing/Issue-Report@v1.1
+uses: jsommer-enterprise-cloud-testing/Issue-Report@v0.1
 with:
   project: 'ProjectX'
 ```
