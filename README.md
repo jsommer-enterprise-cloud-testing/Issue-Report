@@ -1,4 +1,4 @@
-# Hello world javascript action
+# Issue Report Javascript Action
 
 This action creates a report based on the issues in a project which is passed in via parameter.
 
