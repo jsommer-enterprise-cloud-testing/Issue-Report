@@ -10,4 +10,4 @@ outputs:
     description: 'The name of the file created'
 runs:
   using: 'node16'
-  main: 'index.js'
+  main: 'dist/index.js'
